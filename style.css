@@ -1,0 +1,6 @@
+.bcc_img {
+    background-image: url(img/shot.jpg);
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+}

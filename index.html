@@ -11,10 +11,21 @@
 
 
 <body>
+    <div id="app">
 
-    <h1 id="app">
-        {{ message }}
-    </h1>
+        <h1>
+            {{ message }} {{ name }}
+        </h1>
+
+        <div :class="myclass">
+
+        </div>
+
+        <img :src="myimg">
+
+    </div>
+
+
 
 
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>

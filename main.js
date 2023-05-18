@@ -5,6 +5,9 @@ createApp({
     data() {
         return {
             message: 'Ciao Ciao',
+            name: 'Jeremy',
+            myclass: 'bcc_img',
+            myimg: 'img/shot.jpg'
 
         }
     }
